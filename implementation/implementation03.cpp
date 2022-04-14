@@ -1,4 +1,4 @@
-// page 115 왕실의 나이트
+// page 115 knight
 
 #include <iostream>
 using namespace std;
