@@ -1,4 +1,4 @@
-// page 118 게임 개발
+// page 118 game development
 
 #include <iostream>
 using namespace std;
