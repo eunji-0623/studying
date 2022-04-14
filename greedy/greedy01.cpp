@@ -30,3 +30,4 @@ int main()
 	result = (first * k + second) * repeatN + remain * first;
 	cout << result;
 }
+
