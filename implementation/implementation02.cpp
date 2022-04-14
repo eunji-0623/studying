@@ -1,4 +1,4 @@
-// page 113 ½Ã°¢
+// page 113 time
 
 #include <iostream>
 #include <string>
