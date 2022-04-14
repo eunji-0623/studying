@@ -1,3 +1,5 @@
+// page 92 큰 수의 법칙
+
 #include <iostream>
 using namespace std;
 
