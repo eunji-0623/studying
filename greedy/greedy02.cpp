@@ -1,3 +1,5 @@
+// page 96 숫자 카드 게임
+
 #include <iostream>
 using namespace std;
 
