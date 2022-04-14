@@ -1,4 +1,4 @@
-// page 110 »óÇÏÁÂ¿ì
+// page 110 UDLR
 
 #include <iostream>
 #include <string>
